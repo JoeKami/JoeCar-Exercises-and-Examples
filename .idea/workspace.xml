@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e7abf092-a616-45fe-aa4e-205cc3bff64a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coderscampus/unit3to4/MainCollectAndValidateNewMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coderscampus/unit3to4/MainCollectAndValidateNewMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coderscampus/unit9collections/ListApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coderscampus/unit9collections/ListApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +35,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ListApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ListApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coderscampus.unit9collections.ListApplication" />
+      <module name="Exercise_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coderscampus.unit9collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

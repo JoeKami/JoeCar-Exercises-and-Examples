@@ -1,6 +1,6 @@
 package com.coderscampus.unit3to4;
 import java.util.Scanner;
-public class Main {
+public class MainApplication {
     public static void main(String[] args) {
 
         //Creating a Method! this new method should return an Integer.
